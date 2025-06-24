@@ -130,7 +130,7 @@ Nayan Nakum
 B.Sc (CS/IT) | AI/ML Enthusiast
 📫 nayan.nakum2005@gmail.com
 📍 Gota, Ahmedabad
-🔗 NayanNakum19
+🔗 NayanNakum19 
 
 🔗 References
 Kaggle Titanic Dataset
